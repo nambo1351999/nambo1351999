@@ -67,10 +67,10 @@ I ship production apps across the full mobile stack — from native UI to shared
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nambo1351999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=nambo1351999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="195" src="https://github-stats-alpha.vercel.app/api?username=nambo1351999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="195" src="https://streak-stats.demolab.com/?user=nambo1351999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nambo1351999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nambo1351999&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
