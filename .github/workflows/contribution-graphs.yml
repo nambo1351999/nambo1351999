@@ -19,8 +19,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Prepare output directory
-        run: mkdir -p dist && chmod -R 777 dist
+      - name: Generate Pac-Man graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: nambo1351999
+          games: pacman
 
       - name: Generate snake graph
         uses: Platane/snk@v3
@@ -29,15 +32,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Fix output directory permissions
-        run: chmod -R 777 dist
-
-      - name: Generate Pac-Man graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: nambo1351999
-          games: pacman
 
       - name: Push graphs to output branch
         uses: crazy-max/ghaction-github-pages@v4
