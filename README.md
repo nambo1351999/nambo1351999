@@ -67,10 +67,10 @@ I ship production apps across the full mobile stack — from native UI to shared
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nambo1351999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=nambo1351999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nambo1351999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=nambo1351999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nambo1351999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nambo1351999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -122,11 +122,12 @@ I ship production apps across the full mobile stack — from native UI to shared
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nambo1351999&theme=tokyo-night&hide_border=true&area=true&custom_title=Nam%20Phan's%20Contribution%20Activity" alt="Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nambo1351999&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nambo1351999&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
