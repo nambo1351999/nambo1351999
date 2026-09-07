@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Nam Phan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7F52FF,100:BC13FE&height=120&section=header&text=Nam%20Phan&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Mobile+Developer;React+Native+%7C+Android+%7C+iOS+%7C+Flutter;Building+beautiful+apps+since+2018)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Mobile+Developer+%F0%9F%93%B1;React+Native+%7C+Android+%7C+iOS+%7C+Flutter;Building+beautiful+apps+since+2018+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-📍 Hà Nội, Vietnam &nbsp;·&nbsp; 🎂 1999 &nbsp;·&nbsp; 💻 Coding since 2018
+📍 Hà Nội, Vietnam &nbsp;·&nbsp; 🎂 1999 &nbsp;·&nbsp; 💻 Coding since 2018 &nbsp;·&nbsp; 🎮 Arcade profile
 
 [![GitHub followers](https://img.shields.io/github/followers/nambo1351999?style=for-the-badge&logo=github&color=181717)](https://github.com/nambo1351999?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=nambo1351999&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nambo1351999)
@@ -23,6 +23,7 @@ I ship production apps across the full mobile stack — from native UI to shared
   📱  Cross-platform & native: one codebase or platform-perfect, depending on the product
   🎯  Focused on camera, gallery, launcher, and AI-powered mobile tools
   🛠   Clean architecture, Material Design, and modern declarative UI
+  🐍  My commits feed the snake. My graph feeds Pac-Man.
 ```
 
 ---
@@ -75,6 +76,32 @@ I ship production apps across the full mobile stack — from native UI to shared
 
 ---
 
+## 🎮 Arcade Contribution Graphs
+
+<div align="center">
+
+### 🐍 Snake eats my commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nambo1351999/nambo1351999/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nambo1351999/nambo1351999/output/github-snake.svg">
+  <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/nambo1351999/nambo1351999/output/github-snake.svg" width="100%">
+</picture>
+
+### 👾 Pac-Man on my contribution grid
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nambo1351999/nambo1351999/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nambo1351999/nambo1351999/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nambo1351999/nambo1351999/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<sub>Auto-generated daily via GitHub Actions · <a href="https://github.com/Platane/snk">snk</a> · <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-graph</a></sub>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -99,18 +126,24 @@ I ship production apps across the full mobile stack — from native UI to shared
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nambo1351999&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nambo1351999&theme=tokyo-night&hide_border=true&area=true&custom_title=Nam%20Phan's%20Contribution%20Activity" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nambo1351999-181717?style=for-the-badge&logo=github)](https://github.com/nambo1351999)
+[![Gmail](https://img.shields.io/badge/Gmail-nambo0756@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nambo0756@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-nam.phan1359-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nam.phan1359)
 [![Location](https://img.shields.io/badge/Location-Hà_Nội,_Vietnam-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/nambo1351999)
+
+<br>
+
+📧 **nambo0756@gmail.com** &nbsp;·&nbsp; 👤 [facebook.com/nam.phan1359](https://www.facebook.com/nam.phan1359)
 
 </div>
 
@@ -118,7 +151,7 @@ I ship production apps across the full mobile stack — from native UI to shared
 
 <div align="center">
 
-*"Ship fast. Polish hard. Learn every platform."*
+*"Ship fast. Polish hard. Learn every platform."* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7F52FF&height=100&section=footer" width="100%" />
 
