@@ -16,6 +16,12 @@ jobs:
     timeout-minutes: 20
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare output directory
+        run: mkdir -p dist && chmod -R 777 dist
+
       - name: Generate snake graph
         uses: Platane/snk@v3
         with:
@@ -23,6 +29,9 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Fix output directory permissions
+        run: chmod -R 777 dist
 
       - name: Generate Pac-Man graph
         uses: abozanona/pacman-contribution-graph@main
